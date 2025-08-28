@@ -1,7 +1,7 @@
 ---
 title: "Informative Title"
-output: html_document
 date: "2025-08-28"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
